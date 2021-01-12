@@ -1,0 +1,2 @@
+C:\Users\손현진\Desktop\손지안\자료구조및실습\6장자료\C6 해답\Debug\06장-LinkedList.exe
+C:\Users\손현진\Desktop\손지안\자료구조및실습\6장자료\C6 해답\Debug\06장-LinkedList.pdb
