@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\손현진\source\repos\plea\plea\소스.cpp(92,1): error C3867: 'BinaryNode::getData': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+C:\Users\손현진\source\repos\plea\plea\소스.cpp(92,1): error C2446: '==': 'int'에서 'int (__thiscall BinaryNode::* )(void)'(으)로 변환되지 않았습니다.
+C:\Users\손현진\source\repos\plea\plea\소스.cpp(92,31): message : 정수 계열 값에서 멤버 포인터 값으로의 변환이 없습니다.
